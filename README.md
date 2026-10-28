@@ -49,7 +49,8 @@
 | 권리·기회의 공백 | 신청 마감, 신규가입 기한 등 남은 권리를 놓침 |
 | 관계·돌봄의 공백 | 응급 보호자, 정서적 지지, 일상 돌봄을 스스로 설계해야 함 |
 
-![정책 공백과 문제 정의](assets/problem.png)
+![정책 공백과 문제 정의]<img width="1600" height="900" alt="problem" src="https://github.com/user-attachments/assets/aa0f638d-82ca-4495-a7ef-4bd2d8ce90bf" />
+
 
 ## 기존 서비스와의 차이
 
@@ -67,7 +68,8 @@
 
 사용자의 기본 정보와 현재 이용 중인 정책을 입력받고, 자가진단 문항을 통해 현재 생활 상태를 분석합니다.
 
-![전환 진단 화면](assets/diagnosis.png)
+![전환 진단 화면]<img width="1600" height="900" alt="diagnosis" src="https://github.com/user-attachments/assets/96992184-8f61-45cc-98a3-eeda37db002e" />
+
 
 ### 2. 공백·시효 지도
 
@@ -75,7 +77,8 @@
 
 현재 상태뿐 아니라 6개월 후와 1년 후의 예상 상태를 함께 보여주어 다가오는 변화를 미리 확인할 수 있도록 합니다.
 
-![공백 시효 지도 화면](assets/map.png)
+![공백 시효 지도 화면]<img width="1600" height="900" alt="map" src="https://github.com/user-attachments/assets/33bd5731-3388-4283-a68a-5c7e416fa9fe" />
+
 
 ### 3. 행동 설계
 
@@ -87,7 +90,8 @@
 - 오늘, 1개월, 3-6개월 단위의 개인 로드맵 제공
 - 규칙 기반 자격 판정 결과와 공식 정책 내용을 AI가 쉬운 말로 설명
 
-![행동 설계 화면](assets/action-plan.png)
+![행동 설계 화면]<img width="1600" height="900" alt="action-plan" src="https://github.com/user-attachments/assets/cf174d7b-75f3-40c9-9a66-a151c5040549" />
+
 
 ## 서비스 흐름
 

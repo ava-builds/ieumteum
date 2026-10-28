@@ -6,7 +6,8 @@
 
 청년지원 종료를 앞둔 비혼 1인 가구가 주거, 경제, 복지, 관계·돌봄의 공백을 미리 발견하고 다음 행동을 준비하도록 돕는 서비스입니다.
 
-![이음틈 프로젝트 커버](assets/cover.png)
+![이음틈 프로젝트 커버]<img width="2000" height="600" alt="ieumtum1" src="https://github.com/user-attachments/assets/8afed37c-bbf2-416d-b21a-f5f2b63b505f" />
+
 
 ## 프로젝트 소개
 
